@@ -16,6 +16,7 @@ This is a portuguese keyboard layout made for third party keyboards on macOS (Ra
 
 3. Go to ```System Preferences > Keyboard > Input Sources > "+" icon at the bottom left > Others > pt_PT > Add```.
 
+4. Go to ```System Preferences > Keyboard > Change Keyboard Type... > ISO (European)```. If you can't see the ```Change Keyboard Type``` option, take a look at [this](http://m10lmac.blogspot.com/2009/12/fixing-keyboard-type-problems.html).
 
 # Credits
 
